@@ -1,0 +1,189 @@
+{
+    "Network": [{
+            "Id": "N1",
+            "Image": "https://th.bing.com/th/id/OIP.32y0onfw_rcFrfDk_rs34AHaE8?rs=1&pid=ImgDetMain",
+            "Topic": "IpV4",
+            "SubTopic": "IpV4",
+            "Discription": "IpV4 is a 32 bit address. It is a 32 bit number that uniquely identifies a network interface on a machine. An IP address is typically written in decimal digits, formatted as four 8-bit fields separated by periods. Each 8-bit field represents a byte of the IP address. This form of representing the bytes of an IP address is known as the dotted-decimal format. a protocol is a set of rules that governs the communications between computers on a network. we can use IpV4 to connect to the internet. and we can use IpV4 to connect to the internet.",
+            "Image1": "https://www.bluecatnetworks.com/wp-content/uploads/2019/11/ipv4-1.png"
+        },
+        {
+            "Id": "N2",
+            "Image": "https://th.bing.com/th/id/OIP.rEoBTQg4EPY8vj3Zxnoa_AHaFj?w=1000&h=750&rs=1&pid=ImgDetMain",
+            "Topic": "IpV6",
+            "SubTopic": "IpV6",
+            "Discription": "IpV6 is a 128 bit address. It is a 128 bit number that uniquely identifies a network interface on a machine. An IP address is typically written in hexadecimal digits, formatted as eight 16-bit fields separated by colons. Each 16-bit field represents a byte of the IP address. This form of representing the bytes of an IP address is known as the hexadecimal format.",
+            "Image1": "https://th.bing.com/th/id/OIP.ByM8gaytcWsdiSpOkzYuAAHaEY?rs=1&pid=ImgDetMain"
+        },
+        {
+            "Id": "N3",
+            "Image": "https://th.bing.com/th/id/R.0f26241ec8f7893d8772140b3759fbab?rik=GfuIqNupFwVgyw&pid=ImgRaw&r=0&sres=1&sresct=1",
+            "Topic": "WiresShark",
+            "SubTopic": "WiresShark",
+            "Discription": "WiresShark is a packet analyzer tool for network troubleshooting, analysis, software and communications protocol development, and education. It is used for network troubleshooting, analysis, software and communications protocol development, and education. ",
+            "Image1": "https://th.bing.com/th/id/OIP.MrR8-Vn5ZJSosuXLUIXCPQAAAA?rs=1&pid=ImgDetMain"
+        },
+        {
+            "Id": "N4",
+            "Image": "https://siamblockchain.com/wp-content/uploads/2023/07/q-9.jpg",
+            "Topic": "Protocol",
+            "SubTopic": "Protocol",
+            "Discription": "Protocol is a set of rules which governs the communication between two devices in a network. In order for two devices to communicate, they must be speaking the same language. Protocols can include rules about the syntax, semantics, and synchronization of communication. All communications between devices require that the devices agree on the format of the data. The set of rules defining a format is called a protocol. a protocol is a set of rules that governs the communications between computers on a network.",
+            "Image1": "https://th.bing.com/th/id/R.964301e04f0155699ea60481156104dd?rik=1HXul2vkZlkL6w&pid=ImgRaw&r=0"
+        },
+        {
+            "Id": "N5",
+            "Image": "https://www.cloudflare.com/resources/images/slt3lc6tev37/78rJr5URxwDD9uyxKNpsiJ/d220f31e4b59c89290f04eed689ab5bb/what_is_LAN_diagram.png",
+            "Topic": "LAN",
+            "SubTopic": "LAN",
+            "Discription": "LAN is a group of computers and associated devices that share a common communications line or wireless link to a server within a distinct geographic area. A local area network may serve as few as two or three users in a home-office or several hundred users in a corporation’s central office.",
+            "Image1": "https://th.bing.com/th/id/R.389037dfc9a4cf3b27ea3132301e4e68?rik=SWJYs%2bPkhQMCJg&pid=ImgRaw&r=0"
+        }
+    ],
+    "Attack": [{
+            "Id": "A1",
+            "Image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200424200950/DOS.png",
+            "Topic": "Dos",
+            "SubTopic": "Dos",
+            "Discription": "Denial of service attack is a cyber-attack in which the perpetrator seeks to make a machine or network resource unavailable to its intended users by temporarily or indefinitely disrupting services of a host connected to the Internet. Denial of service is typically accomplished by flooding the targeted machine or resource with superfluous requests in an attempt to overload systems and prevent some or all legitimate requests from being fulfilled.",
+            "Image1": "https://th.bing.com/th/id/R.75657067830b7996e6b3b2d0d767b167?rik=9R8ECF%2bFlkkZvw&pid=ImgRaw&r=0"
+        },
+        {
+            "Id": "A2",
+            "Image": "https://cf-assets.www.cloudflare.com/slt3lc6tev37/1FIBEeoyzoa64lVGlWKaRV/3b878bb03df1729b48cd3f667cdfe3de/amplification_ddos_example.png",
+            "Topic": "DDos",
+            "SubTopic": "DDos",
+            "Discription": "Distributed Denial of service attack is a type of DOS attack where multiple compromised systems, which are often infected with a Trojan, are used to target a single system causing a Denial of Service (DoS) attack. Victims of a DDoS attack consist of both the end targeted system and all systems maliciously used and controlled by the hacker in the distributed attack.",
+            "Image1": "https://th.bing.com/th/id/OIP.E0UsWbrBliUzlAf-6RGjUQHaEc?rs=1&pid=ImgDetMain"
+        },
+        {
+            "Id": "A3",
+            "Image": "https://s3-bkk.nipa.cloud/cms-ncs/medium_NIPA_VIRUS_3_747c68686b.jpeg",
+            "Topic": "BruteForce",
+            "SubTopic": "BruteForce",
+            "Discription": "Brute force attack is a trial and error method used by application programs to decode encrypted data such as passwords or Data Encryption Standard (DES) keys, through exhaustive effort (using brute force) rather than employing intellectual strategies.",
+            "Image1": "https://us.norton.com/content/dam/blogs/images/norton/am/in-post-01-guest-networks-simplified.png"
+        },
+        {
+            "Id": "A4",
+            "Image": "https://monsterconnect.co.th/wp-content/uploads/2018/08/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A2-min-2.jpg",
+            "Topic": "Phishing",
+            "SubTopic": "Phishing",
+            "Discription": "Phishing attack is a type of social engineering attack often used to steal user data, including login credentials and credit card numbers.",
+            "Image1": "https://th.bing.com/th/id/R.061dfd3fbe350f1e2a9702247c2964d4?rik=L%2fWKFfJhYdt6GA&pid=ImgRaw&r=0"
+        },
+        {
+            "Id": "A5",
+            "Image": "https://img.freepik.com/premium-vector/email-spamming-attack-email-box-hacking-spam-warning-vector-stock-illustration_123447-5801.jpg",
+            "Topic": "Spam",
+            "SubTopic": "Spam",
+            "Discription": "Spam is the use of messaging systems to send an unsolicited message (spam), especially advertising, as well as sending messages repeatedly on the same website.",
+            "Image1": "https://th.bing.com/th/id/OIP.ruav5dn92YgiC9oDKb1hOwHaD4?rs=1&pid=ImgDetMain"
+        },
+        {
+            "Id": "A6",
+            "Image": "https://www.thnic.or.th/wp-content/uploads/2019/12/1_Uuo3NVsm1IjgpcBKG52jxw.png",
+            "Topic": "DNS",
+            "SubTopic": "DNS",
+            "Discription": "DNS is a distributed, hierarchical, and redundant database that contains information about Internet domain names and their corresponding IP addresses.",
+            "Image1": "https://th.bing.com/th/id/R.5c34912582eb39484375650b5a599be3?rik=FyIWv9fI%2bfNUBQ&pid=ImgRaw&r=0"
+        },
+        {
+            "Id": "A7",
+            "Image": "https://play-lh.googleusercontent.com/IK-zeD7zdk21imtMpHVrcjoUjBeWJroZvdfITJ4wDfIRJe0Zr23-EvYSmWZToGM8Mw",
+            "Topic": "FTP (File Transfer Protocol)",
+            "SubTopic": "FTP (File Transfer Protocol)",
+            "Discription": "FTP is a standard network protocol used for the transfer of computer files between a client and server on a computer network.",
+            "Image1": "https://images.prismic.io/exavault-website/b50a7b0e-4b81-4a19-8817-00deb57e648f_ftp-server-control-and-data-channels-graphic.png?auto=compress,format"
+        },
+        {
+            "Id": "A8",
+            "Image": "https://gridinsoft.com/blogs/wp-content/uploads/2022/11/GS_Blog_banner_Backdoor-and-Reverse-Shell_-What-is-the-Differences_1280x674.webp",
+            "Topic": "Backdoor",
+            "SubTopic": "Backdoor",
+            "Discription": "This technique allows hackers to maintain access even if all other methods of entry are blocked. Backdoor techniques involve creating a hidden password or key that grants unauthorized individuals access to the system once they have already gained initial access.",
+            "Image1": "https://cdn.ttgtmedia.com/rms/onlineimages/how_a_backdoor_attack_works-f_mobile.png"
+        },
+        {
+            "Id": "A9",
+            "Image": "https://www.researchgate.net/publication/340007148/figure/fig2/AS:870636012453890@1584587209687/Example-of-SSDP-amplification-reflection-DDoS-attack-toward-a-server.png",
+            "Topic": "SSDP (Simple Service Discovery Protocol)",
+            "SubTopic": "SSDP (Simple Service Discovery Protocol)",
+            "Discription": "SSDP is a network protocol based on the Internet Protocol Suite for advertisement and discovery of network services and presence information.",
+            "Image1": "https://th.bing.com/th/id/OIP._Xl6L7jKeZTK35ZyYOc2tAHaDD?rs=1&pid=ImgDetMain"
+        },
+        {
+            "Id": "A10",
+            "Image": "https://ez-genius.com/wp-content/uploads/2023/07/security-6001.png",
+            "Topic": "Resomware",
+            "SubTopic": "Resomware",
+            "Discription": "Ransomware is a type of malicious software from cryptovirology that threatens to publish the victim's data or perpetually block access to it unless a ransom is paid.",
+            "Image1": "https://th.bing.com/th/id/R.75f76efef7d05882b1ee1a5fd1c73e57?rik=mtjNOfflZWhUCQ&pid=ImgRaw&r=0"
+        }
+    ],
+    "Protect": [{
+            "Id": "P1",
+            "Image": "https://media.licdn.com/dms/image/D4E12AQH-3wsZeMdHNA/article-cover_image-shrink_600_2000/0/1690757295727?e=2147483647&v=beta&t=YC7eBiiOY7NmttyPiaufYivqk5CaXzGo2EgBbKycU04",
+            "Topic": "Firewall",
+            "SubTopic": "Firewall",
+            "Discription": "Firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules. A firewall typically establishes a barrier between a trusted internal network and untrusted external network, such as the Internet.",
+            "Image1": "https://th.bing.com/th/id/OIP.6bvkg8lZUaJVjhwVR1EHEgHaFR?rs=1&pid=ImgDetMain"
+        },
+        {
+            "Id": "P2",
+            "Image": "https://www.arit.rmutt.ac.th/wp-content/uploads/2012/09/52bdd282ffb3c52f95647b785eb694af.png",
+            "Topic": "Antivirus",
+            "SubTopic": "Antivirus",
+            "Discription": "Antivirus is a software used to prevent, detect, and remove malware, including computer viruses, computer worms, trojan horses, ransomware, spyware and adware.",
+            "Image1": "https://th.bing.com/th/id/R.e2769f4ef1a739e7bf5f2ea85149d3be?rik=CHaSryaY7HtOwg&pid=ImgRaw&r=0"
+        },
+        {
+            "Id": "P3",
+            "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9yQSqORkAwksFbtG5kHEDoMOeH70DOrrJ0fjQvWQArrIxouniABpS5ktRd6kPq9-8REI&usqp=CAU",
+            "Topic": "Encryption",
+            "SubTopic": "Encryption",
+            "Discription": "Encryption is the process of encoding information. This process converts the original representation of the information, known as plaintext, into an alternative form known as ciphertext. Ideally, only authorized parties can decipher a ciphertext back to plaintext and access the original information.",
+            "Image1": "https://assets-global.website-files.com/62def148e4e23334e2e28ae1/647674eab869affb3582b92c_asymmetric%20encryption.webp"
+        },
+        {
+            "Id": "P4",
+            "Image": "https://www.gb-advisors.com/wp-content/uploads/2020/01/SSL-Certificates.jpg",
+            "Topic": "SSL (Secure Sockets Layer)",
+            "SubTopic": "SSL (Secure Sockets Layer)",
+            "Discription": "SSL is a standard security technology for establishing an encrypted link between a server and a client—typically a web server (website) and a browser, or a mail server and a mail client.",
+            "Image1": "https://www.hostinger.in/tutorials/wp-content/uploads/sites/2/2018/11/HTTP-%E2%80%93-no-encryption-no-SSL-vs-HTTPS-%E2%80%93-secured-with-SSL.png"
+        },
+        {
+            "Id": "P5",
+            "Image": "https://static.swhosting.com/blog/wp-content/uploads/2014/10/TLS.png",
+            "Topic": "TLS (Transport Layer Security)",
+            "SubTopic": "TLS (Transport Layer Security)",
+            "Discription": "TLS is a cryptographic protocol designed to provide communications security over a computer network. TLS and SSL encrypt the segments of network connections above the Transport Layer, using asymmetric cryptography for key exchange, symmetric encryption for privacy, and message authentication codes for message integrity.",
+            "Image1": "https://th.bing.com/th/id/R.6d4c75f9ea37105876a0d3cfb9f4a609?rik=QbH22Zkb6bRSxg&pid=ImgRaw&r=0"
+        },
+        {
+            "Id": "P6",
+            "Image": "https://surfshark.com/wp-content/uploads/2021/10/IPsec_VPN_hero.png",
+            "Topic": "IPSec (Internet Protocol Security)",
+            "SubTopic": "IPSec (Internet Protocol Security)",
+            "Discription": "IPSec is a secure network protocol suite that authenticates and encrypts the packets of data sent over an internet protocol network. It is used in virtual private networks (VPNs).",
+            "Image1": "https://www.cisco.com/c/dam/en/us/support/docs/security-vpn/ipsec-negotiation-ike-protocols/217432-understand-ipsec-ikev1-protocol-00.png"
+        },
+        {
+            "Id": "P7",
+            "Image": "https://assets-global.website-files.com/5ff66329429d880392f6cba2/61c1b963247368113bbeef17_Secure%20Shell%20work.png",
+            "Topic": "SSH (Secure Shell)",
+            "SubTopic": "SSH (Secure Shell)",
+            "Discription": "SSH is a cryptographic network protocol for operating network services securely over an unsecured network. Typical applications include remote command-line login and remote command execution, but any network service can be secured with SSH.",
+            "Image1": "https://th.bing.com/th/id/OIP.SfQMb8e466jB_OVJbPKbpQHaCi?rs=1&pid=ImgDetMain"
+        },
+        {
+            "Id": "P8",
+            "Image": "https://store-images.s-microsoft.com/image/apps.59883.13792942823830329.b5841034-86e8-40e1-a5fe-17aa679ebc04.56dcfb81-85a8-42e7-b191-acfdae85ac81",
+            "Topic": "VPN (Virtual Private Network)",
+            "SubTopic": "VPN (Virtual Private Network)",
+            "Discription": "VPN is a network that is constructed using public wires — usually the internet — to connect remote users or regional offices to a company's private, internal network.",
+            "Image1": "https://th.bing.com/th/id/OIP.Xgm-l6f9X7fHNxC6hjmboAHaEi?rs=1&pid=ImgDetMain"
+        }
+    ]
+}
