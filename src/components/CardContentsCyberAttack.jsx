@@ -63,7 +63,7 @@ function CardContentsCyberAttack() {
               />
               <div className="flex flex-col">
                 <p className="text-md">{item.Topic}</p>
-                <p className="text-small text-default-500">nextui.org</p>
+                <p className="text-small text-default-500">{item.SubTopic}</p>
               </div>
             </CardHeader>
             <Divider />
